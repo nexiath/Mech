@@ -1,0 +1,33 @@
+{
+    "title": "Art de l'infini",
+    "description": "Art de l'infini",
+    "logo": "/upload/logo.svg",
+    "footer": "Ⓒ Art de l'infini",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "Works",
+        "link": "/",
+        "position": "left",
+        "external": false
+      },
+      {
+        "text": "Instagram",
+        "link": "https://www.instagram.com/Artinfini_",
+        "position": "left",
+        "external": true
+      },
+      {
+        "text": "Say hi!",
+        "link": "mailto:artinfini@gmail.com",
+        "position": "right",
+        "external": true
+      },
+      {
+        "text": "Journal",
+        "link": "/journal/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
