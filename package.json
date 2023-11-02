@@ -1,11 +1,9 @@
 {
   "name": "portfolio-vuepress",
   "scripts": {
-    "build": "vuepress build",
+    "build": "vuepress build portfolio",
     "develop": "vuepress dev portfolio"
   },
-  "author": "Nichlas W. Andersen",
-  "license": "MIT",
   "dependencies": {
     "vuepress": "^1.5.4",
     "webpack-dev-middleware": "3.7.2"
